@@ -37,6 +37,9 @@
                         <label for="Jurusan">Jurusan</label>
                         <input type="Jurusan" name="Jurusan" class="form-control" id="Jurusan" ariadescribedby="Jurusan">
                     </div>
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input type="Email" name="Email" class="form-control" id="Kelas" ariadescribedby="Kelas">
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
             </div>
